@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/Depreciated/DeimosGLShadersTest.html" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/Depreciated/skyboxBU.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/Depreciated/skyboxOld.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/ObjLoader.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/Ships/deimos.js" libraries="{WebGL}" />
+    <file url="file://$PROJECT_DIR$/skybox.js" libraries="{WebGL}" />
+  </component>
+</project>
